@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
 })
 
 //mongodb connect 
-mongoose.connect('mongodb+srv://admin:admin7054827@cluster0.g6p9p.mongodb.net/gitmax?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://admin:12222@cluster0.g6p9p.mongodb.net/gitmax?retryWrites=true&w=majority', {
         useNewUrlParser: true,
         useUnifiedTopology: true,
         useFindAndModify: false,
