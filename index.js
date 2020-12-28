@@ -1,12 +1,12 @@
 const TelegramBot = require('node-telegram-bot-api');
-const token = '1412478493:AAGyt1EsEjrJbVrwFIo5jPeEaWFn5Wm6ntc';
+const token = 'YOU_TOKEN';
 const bot = new TelegramBot(token, { polling: true });
 
 const key = require('./key')
 const schema = require('./schema');
 var port = process.env.PORT || 5500;
 const mongoose = require('mongoose');
-const admin = "740188832"; // "740188832";
+const admin = "YOU_CHAT_ID"; // "740188832";
 
 module.exports = bot
 
