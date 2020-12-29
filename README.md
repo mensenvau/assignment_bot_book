@@ -1,11 +1,18 @@
-# book_uz_bot
+# Kitob bot online 
 
-Taxlab beraman (50000So'm Telegram : @mensenvau ) 
+> taxlab beraman (50000so'm telegram : @mensenvau ) 
 
-book serach bot 
+Kitob qidirish oson bo'lishi va keng jamo ishlashi uchun mo'ljalangan . 
 
-Baza mongoDb da 
 
-Baza url , Token , user id , o'zgartirasiz 
+# O'rnatish  
 
-npm i , npm start  , bot ishlaydi . 
+> YOU_TOKEN  , YOU_CHAT_ID  o'zgartiring  .va Baza url almashtring .
+> Baza ```Mongodb``` da  .
+
+> `npm install`  &&  `npm start` buruqlari 
+
+
+[Youtube video ](https://www.youtube.com/watch?v=Ivnzx0bKW_M&list=PLXqNf4OGRcbYPJUnRvT55qohfC---efJk&index=2 "Youtube video ")
+
+
