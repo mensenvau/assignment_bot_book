@@ -1,6 +1,6 @@
 # Kitob bot online 
 
-> taxlab beraman (50000so'm telegram : @mensenvau ) 
+> taxlab beraman tekin  @mensenvau 
 
 Kitob qidirish oson bo'lishi va keng jamo ishlashi uchun mo'ljalangan . 
 
